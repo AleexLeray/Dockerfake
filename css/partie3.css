@@ -1,0 +1,50 @@
+/*Partie Aleex*/
+
+.container1 {
+  background-color: #0B2F3A;
+  color: #2E9AFE;
+  font-size: 30px;
+  padding-top: 55px;
+  line-height: 30px;
+  text-align: center;
+  font-weight: bold;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.container1 p {
+  color: white;
+  font-size: 15px;
+  padding-bottom: 55px;
+}
+
+.container2 {
+  text-align: center;
+  line-height: 30px;
+  color : grey;
+  font-size: 20px;
+  padding-top: 55px;
+  padding-left: 100px;
+  padding-right: 100px;
+  font-weight: bold;
+  background-color: #f0f8ff
+}
+
+.container2 h2 {
+  color: #2E9AFE;
+}
+
+.container2 p {
+  padding-bottom: 55px;
+}
+
+.container2 img {
+  padding-bottom: 55px;
+}
+
+.row2 {
+  padding-bottom: 90px;
+  padding-right: 150px;
+}
+
+ /* Fin partie Aleex */
