@@ -1,0 +1,413 @@
+/*Début partie Olivier*/
+div.container
+{
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body
+{
+  overflow-x: hidden;
+}
+
+
+
+/*Header*/
+header
+{
+  width: 100%;
+  height: 86px;
+  padding: 12px 0px 12px 0px;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+nav
+{
+  margin-right: 74.500px;
+  margin-left: 74.500px;
+}
+
+/*Logo*/
+
+a img
+{
+  width: 200px;
+  height: 48.1094px;
+  margin-top: 13px
+}
+
+/*Div*/
+div.element
+{
+  display: inline-block;
+}
+li
+{
+  display: inline-block;
+}
+
+ul#navbar1 li
+{
+  margin-left: 24px;
+}
+ul#navbar2 li
+{
+  margin-left: 16px;
+}
+
+#navbar1 li a
+{
+  color: #7A8491;
+}
+
+#navbar2 li a
+{
+  font-size: 1.3em;
+  font-weight: lighter;
+  color:#394d54;
+}
+
+#navbar1 li a:hover
+{
+  color: #ff992e;
+}
+
+#navbar2 li a:hover
+{
+  color:#22b8eb;
+}
+
+li button#navbutton
+{
+  background-color: #86D801;
+  border: 1px solid #86D801;
+  border-radius: 5px;
+  color: white;
+  width: 137px;
+  height: 36px;
+  font-size: 1.1em
+}
+
+div#navbar
+{
+  position: relative;
+}
+
+div.element:nth-child(1)
+{
+  position: absolute;
+  top: 3px;
+  right: 0px;
+}
+
+div.element:nth-child(2)
+{
+  position: absolute;
+  top:47px;
+  right: 0px;
+}
+
+
+/*Section 1*/
+section#section1
+{
+  background-color: #243137;
+}
+
+#section1 div.row h1
+{
+  color: #22b8eb;
+  font-size: 3.5em;
+  margin-top: 80px;
+  margin-bottom: 30px;
+}
+
+p#p1
+{
+  color: #dde7f7;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+#section1 div div button
+{
+  margin-right: 40px;
+  margin-top: 50px;
+  margin-bottom: 80px;
+  background-color: #22b8eb;
+  border: 1px solid #22b8eb;
+  border-radius: 5px;
+  color: white;
+  height: 50px;
+  font-size: 1.2em;
+
+}
+
+#section1 div div button:hover
+{
+  background-color: #1298c5;
+  border: 1px solid #1298c5;
+}
+
+
+/*Section 2*/
+#titre
+{
+  margin-top: 80px;
+  margin-bottom: 40px;
+}
+
+#section2 h1
+{
+  text-align: center;
+  color: #22b8eb;
+  font-size: 3.5em;
+}
+
+p#p2
+{
+  color: #7A8491;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+div#bailchelou
+{
+  margin-top: 60px;
+}
+
+#agility
+{
+  position: relative;
+  right: -10px;
+  color: #22b8eb;
+}
+
+#control
+{
+position: relative;
+top: 10px;
+color: #22b8eb;
+}
+
+#portability
+{
+  position: relative;
+  left: -10px;
+  color: #22b8eb;
+}
+
+p.p2
+{
+  width: 270%;
+  text-align: center;
+  color: #7A8491;
+  font-size: 1.5em;
+  position: relative;
+  left: -150px;
+}
+
+div#filsunique
+{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+
+button#buttonsect2
+{
+  background-color: #f17b00;
+  border: 1px solid #f17b00;
+  border-radius: 5px;
+  color: white;
+  height:  70px;
+  width: 450px;
+  font-size: 1.5em;
+}
+/*Fin partie Olivier*/
+/*Début partie Mathieu*/
+.partie1{
+	background-color: #134A6A;
+}
+
+.partie1>h1{
+  margin-top: 100px;
+	color: white;
+}
+
+main.container{
+	width: 100%;
+}
+
+.mSection{
+	margin-top: 3px;
+	margin-bottom: 45px;
+}
+
+.mSection img{
+	margin-top: 17px;
+}
+
+.mSection p{
+	color: white;
+}
+
+.mSection h2{
+	color: #22B8EB;
+}
+
+.partie1 h3{
+	color: white;
+	font-size: 20px;
+}
+
+.bouton:hover{
+	background-color: #1298c5;
+}
+
+.bouton{
+	background-color: #22b8eb;
+	border: none;
+	height: 45px;
+	border-radius: 5px;
+	margin-right: 30px;
+	margin-top: 10px;
+	margin-bottom: 70px;
+	color: white;
+}
+
+.partie2 h1{
+	margin-top: 60px;
+	margin-bottom: 40px;
+	color:  #22B8EB;
+}
+
+.partie2 p{
+	margin-bottom: 50px;
+	font-size: 17px;
+}
+
+.partie2{
+	margin-bottom: 60px;
+}
+
+.microImg{
+	margin-top: 25px;
+	margin-right: 40px;
+	margin-left: 40px;
+}
+/*Fin partie Mathieu*/
+/*Début partie Aleex*/
+.container1 {
+  background-color: #0B2F3A;
+  color: #2E9AFE;
+  font-size: 30px;
+  padding-top: 55px;
+  line-height: 30px;
+  text-align: center;
+  font-weight: bold;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.container1 p {
+  color: white;
+  font-size: 15px;
+  padding-bottom: 55px;
+}
+
+.container2 {
+  text-align: center;
+  line-height: 30px;
+  color : grey;
+  font-size: 20px;
+  padding-top: 55px;
+  padding-left: 100px;
+  padding-right: 100px;
+  font-weight: bold;
+  background-color: #f0f8ff
+}
+
+.container2 h2 {
+  color: #2E9AFE;
+}
+
+.container2 p {
+  padding-bottom: 55px;
+}
+
+.container2 img {
+  padding-bottom: 55px;
+}
+
+.row2 {
+  padding-bottom: 90px;
+  padding-right: 150px;
+}
+/*Fin partie Aleex*/
+ /* Partie Célia */
+  .mailPut img{
+    width: 336px;
+    height: 29px;
+}
+ .spanFleche{
+  color:#F17B00;
+  font-size:30px; 
+  margin-left: 100px;
+}
+
+ .container3 {
+   text-align: left;
+   background-color: white;
+   color: grey;
+   padding-top: 55px;
+   padding-bottom: 55px;
+   padding-left: 35px;
+ }
+
+#paragraphe {
+  font-size: 20px;
+}
+
+ .container3 h2 {
+   color : #2E9AFE;
+ }
+
+ .container3 h3 {
+   color : #F5CC37;
+ }
+
+ #tableau {
+   border: 1px solid #F5CC37;
+   background-color: #f0f8ff;
+   width: 500px;
+ }
+
+.container4 {
+  background-color: #243137;
+  color: white;
+  padding-top: 55px;
+  padding-bottom: 55px;
+  padding-left: 35px;
+  line-height: 35px;
+  font-weight: bold;
+}
+
+.container4 img {
+  width: 120px;
+  height: 200px;
+}
+
+.input-group-btn {
+  background-color: #F17B00;
+
+li {
+  list-style-type: none;
+}
+
+
+
+
+/* Fin partie de Célia */
